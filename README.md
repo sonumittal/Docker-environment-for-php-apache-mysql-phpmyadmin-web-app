@@ -6,3 +6,7 @@ just run this command for start or creating containers
 
 Run this command for stop
 # docker-compose down -d
+
+if, want to use this php applicatoin in src folder then craete datebase with the name rms and import databse file with name rms.sql that is in src folder  
+
+Follow this link for more understanding docker code: https://truthseekers.io/php-docker-simple-environment/
