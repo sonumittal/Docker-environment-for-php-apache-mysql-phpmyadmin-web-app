@@ -22,10 +22,10 @@ Docker Desktop view after running command:
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/25547424/117661659-45ec1580-b1bc-11eb-8602-4e6ea3bfbbfe.png)
 
-My website preview:
+Website preview:
 ![Screenshot (123)](https://user-images.githubusercontent.com/25547424/117662601-5e106480-b1bd-11eb-9f88-51b01b56b05b.png)
 
-![Screenshot (123)](https://user-images.githubusercontent.com/25547424/117662670-6ec0da80-b1bd-11eb-80db-7ad2aa30a20d.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/25547424/117679789-35449b00-b1ce-11eb-88b6-c9af71cf8b63.png)
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/25547424/117662760-8ac47c00-b1bd-11eb-91cb-bc1a874e8a6e.png)
 
