@@ -12,6 +12,6 @@ index page and other website code are in src folder can be accebile on localhost
 Run this command for stop
 # docker-compose down -d
 
-if, want to use my existing website (Record Management System) in the src folder then create database with the name rms and import database file with the name rms.sql that is also in src folder, or if you don't want to use my website, Develop yours.
+if, want to use my existing website (Record Management System) in the src folder then create database with the name rms and import database file from the name rms.sql that is also in src folder, or if you don't want to use my website, Develop yours.
 
 Follow this link for more understanding docker code: https://truthseekers.io/php-docker-simple-environment/ ( I have used phpmyadmin instead of adminer in docker-compose.yml )
