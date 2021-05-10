@@ -7,7 +7,7 @@ PHP, Apache, MySQL, and phpmyadmin are installd just
 Run this command on that folder path for start or creating containers
 # docker-compose up -d
 
-index page and other website code are in src folder can be accebile on #localhost:80 and phpmyadmin on #localhost:8080
+index page and other website code are in src folder can be accebile on localhost:80 and phpmyadmin on localhost:8080
 
 Run this command for stop
 # docker-compose down -d
